@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHRIRAM WAKCHAURE</h1>
 <h3 align="center">Mechanical engineer / SAP[MM]S4/hana / Full-stack developer</h3>
-<img align="right" alt="coding" height="200" width="350" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
+<img align="right" alt="coding" height="600" width="350" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
 - 📫 How to reach me **ram275980@gmail.com**
 
