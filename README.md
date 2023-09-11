@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHRIRAM WAKCHAURE</h1>
 <h3 align="center">Mechanical engineer / SAP[MM]S4/hana / Full-stack developer</h3>
-
 <img align="left" alt="coding" width="400" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 - 📫 How to reach me **ram275980@gmail.com**
 
@@ -10,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shriram wakchaure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shriram wakchaure" height="30" width="40" /></a>
-<a href="https://instagram.com/ramwakchaure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramwakchaure" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/shriramw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shriramw" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ramwakchaure/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ramwakchaure/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
