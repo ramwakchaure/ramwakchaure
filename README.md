@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHRIRAM WAKCHAURE</h1>
 <h3 align="center">Mechanical engineer / SAP[MM]S4/hana / Full-stack developer</h3>
-<img align="down-right" alt="coding" width="400" src=https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif>
+<img align="right" alt="coding" width="400" src=https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramwakchaure&label=Profile%20views&color=0e75b6&style=flat" alt="ramwakchaure" /> </p>
 
