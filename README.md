@@ -7,8 +7,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TxXMYTVeLctwLc3CQWiRaxn42rNCMthV/view?usp=sharing](https://drive.google.com/file/d/1TxXMYTVeLctwLc3CQWiRaxn42rNCMthV/view?usp=sharing)
 
 - ⚡ Fun fact **I am always underestimated**
-  
-<img align="right" alt="coding" width="350" src=https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
