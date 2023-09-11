@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHRIRAM WAKCHAURE</h1>
-<div align="center"> <img src="https://drive.google.com/file/d/10Tft6dDXSoLkIeeLGAzV8tYszbQBs2lY/view?usp=sharing"> </div>        
+<img align="center" alt="coding" src=https://drive.google.com/file/d/10Tft6dDXSoLkIeeLGAzV8tYszbQBs2lY/view?usp=sharing>        
 <h3 align="center">Mechanical engineer / SAP[MM]S4/hana / Full-stack developer</h3>
 <img align="right" alt="coding" width="400" src=https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif>
 
